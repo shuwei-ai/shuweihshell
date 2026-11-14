@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.1.1",
+  "name": "shuweishell",
+  "version": "1.0.0",
+  "description": "PiHA - a uid-2000 shell bridge for HarmonyOS apps",
+  "main": "",
+  "author": "枢维智能科技",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

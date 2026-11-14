@@ -1,0 +1,35 @@
+# Build output
+build/
+**/build/
+.cxx/
+**/.cxx/
+oh_modules/
+**/oh_modules/
+node_modules/
+*.o
+*.hap
+*.hsp
+
+# IDE / tool state
+.idea/
+.hvigor/
+local.properties
+oh-package-lock.json5
+
+# OS
+.DS_Store
+
+# Temporary / Agent files
+.wechat-agent/
+.agents/
+*.log
+
+# Signing credentials
+*.cer
+*.p12
+*.p7b
+*.csr
+
+# Specifications
+docs/superpowers/
+

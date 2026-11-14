@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "PiHA entry module",
+  "main": "",
+  "author": "枢维智能科技",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.18"
+  },
+  "dynamicDependencies": {}
+}

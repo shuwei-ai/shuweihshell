@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "PiHA 主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "PiHA 主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PiHA"
+    },
+    {
+      "name": "service_desc",
+      "value": "向其他应用提供 uid 2000 shell 命令通道"
+    },
+    {
+      "name": "service_label",
+      "value": "PiHA Shell 服务"
+    },
+    {
+      "name": "permission_use_shell_label",
+      "value": "使用 Shell 通道"
+    },
+    {
+      "name": "permission_use_shell_desc",
+      "value": "允许该应用通过 PiHA 在设备上执行 shell 命令（uid 2000）。"
+    },
+    {
+      "name": "permission_internet",
+      "value": "用于连接设备上的调试服务"
+    },
+    {
+      "name": "permission_network_info",
+      "value": "用于获取设备网络状态"
+    },
+    {
+      "name": "permission_background",
+      "value": "用于在后台保持 Shell 通道可用"
+    },
+    {
+      "name": "permission_download_desc",
+      "value": "用于将智能体生成的文件保存至系统公共下载目录"
+    },
+    {
+      "name": "permission_documents_desc",
+      "value": "用于将智能体生成的文件保存至系统公共文档目录"
+    },
+    {
+      "name": "permission_float_window_desc",
+      "value": "用于在跨应用自动化执行时展示智能体状态与实时思考悬浮窗"
+    }
+  ]
+}
